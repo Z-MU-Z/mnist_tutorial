@@ -23,7 +23,7 @@ Code tested on following environments, other version should also work:
 # For students from SJTU
 Please read [HEAR](EE369.md).
 
-# 说明
+# 说明朱慕之519030910375
 
 |Q |Training accuracy|Testing accuracy|
 |:---|---:|---:|
