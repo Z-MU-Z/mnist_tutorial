@@ -22,6 +22,7 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
 #说明
 
 |Q |Training accuracy|Testing accuracy|
@@ -31,5 +32,7 @@ Please read [HEAR](EE369.md).
 | Q3| 97.72%| 87.30%|
 |Q4|91.82%|89.90%|
 | Q5| 99.78%| 98.80%|
+
+
 Q5中使用pytorch 搭建了一个类似lenet的模型
 
